@@ -1,11 +1,10 @@
 <!doctype html>
 <html>
     <head>
-        <title>My Site</title>
+        <title>My Site - {{title}}</title>
         <link rel="stylesheet" href="/static/css/style.css">
     </head>
     <body>
-        <title>{% block title %} {% endblock %}</title>
         <div id="wrapper">
             {% include 'header.html' %}
             {% include 'nav.html' %}
