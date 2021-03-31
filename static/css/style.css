@@ -14,7 +14,7 @@ html {
 
 .navigation {
     background-color: black;
-    color: burlywood;
+    color: rgb(255, 0, 0);
     height: 3%;
     font-size: 70px;
 }
@@ -29,6 +29,6 @@ html {
 
 .home {
     background-color: olive;
-    color: blue;
+    color: rgb(85, 67, 42);
     height: 15%;
 }
